@@ -66,7 +66,7 @@ const greeting = (word) => {
   return tempString;
   
 };
-
+//
 const speaker = (words, callback) => {
   // Solution code here...
 };
