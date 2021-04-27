@@ -69,6 +69,9 @@ const greeting = (word) => {
 //
 const speaker = (words, callback) => {
   // Solution code here...
+  words.forEach(str => {callback.push(`${str.toUpperCase()}!`)
+  });
+  return callback;
 };
 
 /* ------------------------------------------------------------------------------------------------
