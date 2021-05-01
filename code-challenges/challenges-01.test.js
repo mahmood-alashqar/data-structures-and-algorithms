@@ -129,7 +129,7 @@ const createList = (availableItems) => {
   });
   return tempArray;
 };
-//
+//////
 /* ------------------------------------------------------------------------------------------------
 STRETCH - CHALLENGE 7
 
