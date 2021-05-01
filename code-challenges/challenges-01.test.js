@@ -130,6 +130,7 @@ const createList = (availableItems) => {
   return tempArray;
 };
 //////
+console.log('hello');
 /* ------------------------------------------------------------------------------------------------
 STRETCH - CHALLENGE 7
 
